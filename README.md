@@ -1,4 +1,4 @@
-# SalwaIsmail-CSS
+# Salwa Ismail-CSS Dissertation
 Data and model written for the various sections in my dissertation for CSS.
 There are three sections in my dissertation
 Section 1: I take a CAS approach. to  first explore the sizes of U.S universities and document significant positive correlation among important variables like acceptance rates, locations in urban/rural settings, the presence of law and medical schools, research and development expenditures, and sizes of host cities/locales
