@@ -1,0 +1,51 @@
+US News Ranking ,enrollment (undergraduate students),Name of university (2022),City,State,Public or Private,acceptance rate (%),R&D Expenditure ($000),Urban (1) /Suburban -rural  (0),Medical School (1),Law School (1),Campus size in acres,Population of the city,Population of state
+1,5604,Princeton University,Princeton,NJ,Private,6,461185,0,0,1,690,30377,9.262 million
+2,4657,Massachusetts Institute of Technology,Cambridge,MA,Private,4,989166,1,0,0,168,118488,6.982 million 
+3,7240,Harvard University,"Cambridge,",MA,Private,3.2,1308458,1,1,1,5076,118488,6.982 million
+4,8049,Stanford University,"Stanford,",CA,Private,3.7,1384555,0,1,1,8180,17255,39.03 million
+5,6645,Yale University,New Haven,CT,Private,4.6,1191201,1,1,1,373,138915,3.626 million
+6,9760,University of Pennsylvania,"Philadelphia,",PA,Private,6.5,1791311,1,1,1,299,1.567 million,12.97 million
+7,982,California Institute of Technology,Pasadena,CA,Private,2.7,478142,0,0,0,124,134211,39.03 million 
+8,6640,Duke University,Durham,NC,Private,6.3,1390538,1,1,1,8693,291928,10.7 million
+9,7639,Brown University,Providence,RI,Private,5.1,310780,1,1,0,146,189563,1.094 million 
+10,6044,Johns Hopkins University,"Baltimore,",MD,Private,7.3,3420312,1,1,0,140,569931,6.165 million 
+11,8659,Northwestern University,Evanston,IL,Private,7.2,1000695,1,1,1,231,75544,12.58 million 
+12,8832,Columbia University,New York,NY,Private,4,1230924,1,1,1,36,8.336 million ,19.69 million
+13,15735,Cornell University,Ithaca,NY,Private,7,1300357,0,1,1,745,32870,19.69 million
+14,7470,University of Chicago,Chicago,IL,Private,5.4,591805,1,1,1,217,2.665 million ,12.58 million 
+15,32831,"University of California, Berkeley","Berkeley,",CA,Public,11.3,981035,1,0,1,1232,118950,39.03 million 
+16,32423,"University of California, Los Angeles",Los Angeles,CA,Public,9,1536197,1,1,1,419,3.822 million ,39.03 million 
+17,4494,Rice University,Houston,TX,Private,9,216202,1,0,0,300,2.303 million ,30.03 million 
+18,4458,Dartmouth College,Hanover,NH,Private,9,216202,1,0,0,300,2.303 million ,30.03 million 
+19,7151,Vanderbilt University,Nashville,TN,Private,6.7,1086223,1,1,1,333,692587,7.051 million 
+20,8971,University of Notre Dame,Notre Dame,IN,Private,13,280604,0,0,1,1265,6479,6.833 million
+21,32695,University of Michigan--Ann Arbor,Ann Arbor,MI,Public,17.7,1770708,1,1,1,3207,119875,10.03 million 
+22,7900,Georgetown University,Washington,DC,Private,12.2,313220,1,1,1,104,671.803,671803
+23,20210,University of North Carolina at Chapel Hill,Chapel Hill,NC,Public,17.1,1361028,0,1,1,729,62098,10.7 million
+24,7509,Carnegie Mellon University,Pittsburgh,PA,Private,11.3,449707,1,0,0,157,302898,12.97 million 
+25,7101,Emory University,Atlanta,GA,Private,11.4,958281,0,1,1,631,499127,10.91 million
+26,17496,University of Virginia,Charlottesville,VA,Public,18.7,662658,1,1,1,1682,45373,8.684 million
+27,8132,Washington University in St. Louis,St. Louis,MO,Public,83.1,368396,0,1,0,1742,32508,7.786 million
+28,31532,"University of California, Davis",Davis,CA,Public,37.3,883807,0,1,1,5300,67048,39.03 million 
+29,33096,"University of California, San Diego",San Diego,CA,Public,25,1533357,1,1,0,1976,46781,39.03 million 
+30,34552,University of Florida,Gainesville,FL,Public,30.1,1085834,1,1,1,2000,"145, 214",22.24 million 
+31,20699,University of Southern California,Los Angeles,CA,Private,12,1039905,1,1,1,226,3.822 million,39.03 million
+32,41309,University of Texas at Austin,Austin,TX,Public,31.4,845896,1,1,1,431,974447,30.03 million
+33,18415,Georgia Institute of Technology,Atlanta,GA,Public,17.1,1231485,1,0,0,400,499127,10.91 million
+34,28661,"University of California, Irvine",Irvine,CA,Public,21.2,534947,0,1,1,1475,313685,39.03 million 
+35,29401,New York University,New York,NY,Private,12.5,1276038,1,1,1,230,8.336 million ,19.68 million 
+36,23460,"University of California, Santa Barbara",Santa Barbara,CA,Public,29,278897,0,0,0,989,87533,39.03 million 
+37,35120,University of Illinois Urbana-Champaign,Champaign,IL,Public,43.7,765909,1,1,1,1783,89241,12.58 million 
+38,37230,University of Wisconsin--Madison,Madison,WI,Public,49.1,1523513,1,1,1,936,272903,5.893 million
+39,9484,Boston College,Chestnut Hill,MA,Private,16.7,68958,0,0,1,405,9.737,6.982 million 
+40,36344,Rutgers University--New Brunswick,Piscataway,NJ,Public,66.3,712231,1,1,1,2656,55998,9.262 million
+41,6815,Tufts University,Medford,MA,Private,9.7,231224,0,1,1,150,65399,6.982 million 
+42,36872,University of Washington,Seattle,WA,Public,47.5,1559708,1,1,1,634,749256,7.786 million
+43,18459,Boston University,Boston,MA,Private,14,725402,1,1,1,140,650706,6.982 million 
+44,46123,The Ohio State University,Columbus,OH,Public,52.7,1363388,1,1,1,1714,907971,11.76 million
+45,37949,Purdue University,West Lafayette,IN,Public,53,754627,1,1,1,2468,45060,6.833 million
+46,30353,"University of Maryland, College Park",College Park,MD,Public,44.6,1228550,0,0,0,1340,34190,6.165 million 
+47,5624,Lehigh University,Bethlehem,PA,Private,37,51769,1,0,0,2355,77617,12.97 million
+48,57512,Texas A&M University,"College Station,",TX,Public,62.6,1152666,1,1,1,5200,124319,30.03 million 
+49,30714,University of Georgia,Athens,GA,Public,42.5,545631,1,1,1,767,128561,10.91 million 
+50,6767,University of Rochester,Rochester,NY,Private,38.9,450805,1,1,0,700,209352,19.68 million

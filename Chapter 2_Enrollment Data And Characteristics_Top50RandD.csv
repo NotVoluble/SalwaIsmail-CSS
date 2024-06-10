@@ -1,0 +1,53 @@
+Rank by R&D (2022),Name of university (2022),City,State,enrollment,Public or Private,acceptance rate (%),R&D Expenditure 2022 ($000),R&D expenditute 2021 (In 000s),Urban (1) /Suburban -rural  (0),Medical School (1),Law School (1),Campus size in acres,Population of the city,Population of state
+1,Johns Hopkins U. ,Baltimore,MD,6044,Private,7.3,3420312,3181385,1,1,0,140,569931,6.165 million 
+2,"U. California, San Francisco",San Francisco,CA,3139,Public,15,1805950,1710036,1,1,0,195,808437,39.03 million
+3,U. Pennsylvania,Philadelphia,PA,9760,Private,6.5,1791311,1631950,1,1,1,299,1.567 million,12.97 million
+4,"U. Michigan, Ann Arbor",Ann Arbor,MI,32695,Public,17.7,1770708,1639645,1,1,1,3207,119875,10.03 million 
+5,"U. Washington, Seattle",Seattle,WA,36872,Public,47.5,1559708,1488645,1,1,1,634,749256,7.786 million
+6,"U. California, Los Angeles",Los Angeles,CA,32423,Public,9,1536197,1454880,1,1,1,419,3.822 million ,39.03 million 
+7,"U. California, San Diego",La Jolla,CA,33096,Public,25,1533357,1425499,1,1,0,1976,46781,39.03 million 
+8,U. Wisconsin-Madison,Madison,WI,37230,Public,49.1,1523513,1380075,1,1,1,936,272903,5.893 million
+9,Duke U.,Durham,NC,6640,Private,6.3,1390538,1237686,1,1,1,8693,291928,10.7 million
+10,Stanford U.,Stanford,CA,8049,Private,3.7,1384555,1274483,0,1,1,8180,17255,39.03 million
+11,"Ohio State U., The",Columbus,OH,46123,Public,52.7,1363388,1236111,1,1,1,1714,907971,11.76 million
+12,"U. North Carolina, The, Chapel Hill",Chapel Hill,NC,20210,Public,17.1,1361028,1205883,0,1,1,729,62098,10.7 million
+13,Harvard U.,Cambridge,MA,7240,Private,3.2,1308458,1254008,1,1,1,5076,118488,6.982 million
+14,Cornell U.,Ithaca,NY,15735,Private,7,1300357,1183524,0,1,1,745,32870,19.69 million
+15,New York U.,New York,NY,29401,Private,12.5,1276038,1063704,1,1,1,230,8.336 million ,19.68 million 
+16,"U. Pittsburgh, Pittsburgh",Pittsburgh,PA,19928,Public,49,1251998,1135416,1,1,1,146,302898,12.97 million
+17,Georgia Institute of Technology,Atlanta,GA,18415,Public,17.1,1231485,1114481,1,0,0,400,499127,10.91 million
+18,Columbia U. in the City of New York,New York,NY,8832,Private,4,1230924,1098570,1,1,1,36,8.336 million ,19.69 million
+19,"U. Maryland, The ",College Park,MD,30353,Public,44.6,1228550,1142264,0,0,0,1340,34190,6.165 million 
+20,"U. Minnesota, Twin Cities",Minneapolis,MN,39248,Public,74.9,1202084,1072961,1,1,0,1204,"425, 096",5.717 million
+21,Yale U.,New Haven,CT,6645,Private,4.6,1191201,1165148,1,1,1,373,138915,3.626 million
+22,"U. Texas M. D. Anderson Cancer Center, The",Houston,TX,337,Public,38,1182536,1124971,1,1,0,116,2.303 million,30.03 million
+23,"Texas A&M U., College Station and Health Science Center",College Station,TX,74829,Public,62.6,1152666,1147720,1,1,1,5200,124319,30.03 million 
+24,Vanderbilt U. and Vanderbilt U. Medical Center,Nashville,TN,7151,Private,6.7,1086223,1019273,1,1,1,333,692587,7.051 million 
+25,U. Florida,Gainesville,FL,34552,Public,30.1,1085834,959965,1,1,1,2000,"145, 214",22.24 million 
+26,"Washington U., Saint Louis",Saint Louis,MO,8132,Private,11,1047098,989214,1,1,1,169,286578,6.178 million
+27,U. Southern California,Los Angeles,CA,20699,Private,12,1039905,955565,1,1,1,226,3.822 million,39.03 million
+28,"Pennsylvania State U., The, University Park and Hershey Medical Center",University Park,PA,41745,Public,55.2,1019940,970544,0,1,1,7958,40745,12.97 million
+29,Northwestern U.,Boston,MA,16302,Private,6.8,231607,913178,1,0,1,73,650706,6.982 million 
+30,Massachusetts Institute of Technology,Cambridge,MA,4657,Private,4,989166,949076,1,0,0,168,118488,6.982 million 
+31,"U. California, Berkeley",Berkeley,CA,32831,Public,11.3,981035,846872,1,0,1,1232,118950,39.03 million 
+32,Emory U.,Atlanta,GA,7101,Private,11.4,958281,852922,0,1,1,631,499127,10.91 million
+33,Icahn School of Medicine at Mount Sinai,New York,NY,531,Private,3.4,893968,820260,1,1,0,,8.336 million,19.68 million
+34,"U. California, Davis",Davis,CA,31532,Public,37.3,883807,817409,0,1,1,5300,67048,39.03 million 
+35,"U. Texas, The, Austin",Austin,TX,52384,Public,31.4,845896,779348,1,1,1,431,974447,30.03 million
+36,Baylor C. Medicine,Waco,TX,15213,Private,45.9,66014,716976,1,1,1,1000,143984,30.03 million 
+37,U. Arizona,Tucson,AZ,40407,Public,86.8,824340,770031,1,1,1,392,546574,7.359 million 
+38,Arizona State U.,Tempe,AZ,74795,Public,89.8,797224,677303,1,0,1,2006,185950,7.359 million 
+39,"U. Illinois, Urbana-Champaign",Champaign,IL,35120,Public,43.7,765909,731268,1,1,1,1783,89241,12.58 million 
+40,Michigan State U.,East Lansing,MI,39201,Public,88,759229,710178,0,1,1,5192,47340,10.03 million
+41,"Purdue U., West Lafayette",West Lafayette,IN,37949,Public,53,754627,679482,1,1,1,2468,45060,6.833 million
+42,"Indiana U., Bloomington",Bloomington,IN,35660,Public,82.5,751309,695258,1,1,1,1953,79107,6.833 million
+43,Boston U.,Boston,MA,32718,Private,14,725402,652096,1,1,1,140,650706,6.982 million 
+44,"U. Alabama, The, Birmingham",Birmingham,AL,13032,Public,86.7,713480,644330,1,1,0,437,196910,5.074 million
+45,"Rutgers, The State U. New Jersey, New Brunswick",New Brunswick,NJ,36344,Public,66.3,712231,643955,1,1,1,2656,55998,9.262 million
+46,"U. Utah, The",Salt Lake City,UT,26355,Public,89,670119,624737,1,1,1,1534,204657,3.381 million
+47,"U. Virginia, Charlottesville",Charlottesville,VA,17496,Public,18.7,662658,611313,1,1,1,1682,45373,8.684 million
+48,U. Cincinnati,Cincinnati,OH,47914,Public,86.2,615070,551826,1,1,1,254,309513,11.76 million 
+49,U. Colorado Boulder,Boulder,CO,31103,Public,79,611380,547724,1,0,1,600,"105, 485",5.84 million 
+50,U. Iowa,Iowa City,IA,21973,Public,86,594215,553876,1,1,1,2122,75233,3.201 million 
+51,Virginia Polytechnic Institute and State U.,Blacksburg,VA,30434,Public,57,591861,542045,1,0,0,2600,45610,8.684 million
+52,"U. Chicago, The",Chicago,IL,7470,Private,5.4,591805,497651,1,1,1,217,2.665 million ,12.58 million 
