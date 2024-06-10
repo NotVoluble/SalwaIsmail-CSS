@@ -2,7 +2,7 @@
 Data and model written for the various sections in my PhD dissertation for CSS.
 
 There are three sections in my dissertation, and there is data and/or code associated with each of them. 
-Contact me at <sismail4 at gmu dot edu> if you'd like to extend the datasets or have questions about the datasets. 
+Contact me at sismail4 at gmu dot edu if you'd like to extend the datasets or have questions about the datasets. 
 
 Section 1: I take a CAS approach. to  first explore the sizes of U.S universities and document significant positive correlation among important variables like acceptance rates, locations in urban/rural settings, the presence of law and medical schools, research and development expenditures, and sizes of host cities/locales
 
